@@ -1,0 +1,13 @@
+C:\Users\Dell\source\repos\Task PLC\Task PLC\bin\Debug\Task PLC.exe.config
+C:\Users\Dell\source\repos\Task PLC\Task PLC\bin\Debug\Task PLC.exe
+C:\Users\Dell\source\repos\Task PLC\Task PLC\bin\Debug\Task PLC.pdb
+C:\Users\Dell\source\repos\Task PLC\Task PLC\bin\Debug\CalithaLib.dll
+C:\Users\Dell\source\repos\Task PLC\Task PLC\bin\Debug\GoldParserEngine.dll
+C:\Users\Dell\source\repos\Task PLC\Task PLC\obj\Debug\Task PLC.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Task PLC\Task PLC\obj\Debug\Task_PLC.Form1.resources
+C:\Users\Dell\source\repos\Task PLC\Task PLC\obj\Debug\Task_PLC.Properties.Resources.resources
+C:\Users\Dell\source\repos\Task PLC\Task PLC\obj\Debug\Task PLC.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\Task PLC\Task PLC\obj\Debug\Task PLC.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Task PLC\Task PLC\obj\Debug\Task PLC.csproj.CopyComplete
+C:\Users\Dell\source\repos\Task PLC\Task PLC\obj\Debug\Task PLC.exe
+C:\Users\Dell\source\repos\Task PLC\Task PLC\obj\Debug\Task PLC.pdb
